@@ -2,7 +2,7 @@
 <?php
 /**
  * to run call from command line this not a web broweser application
- * c:\> php /Users/Grzegorz/Sites/xampp/htdocs/php-socket/socket.php
+ * Grzegorz$ php /Users/Grzegorz/Sites/xampp/htdocs/php-socket/socket.php
  *
  */
 
